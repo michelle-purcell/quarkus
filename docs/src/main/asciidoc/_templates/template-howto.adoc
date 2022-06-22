@@ -27,17 +27,17 @@ Your user will also be in the middle of something: define the starting-point tha
 
 == Resources
 
-- xref:{doc-guides}/doc-create-howto-tutorial.adoc[Tutorial: Create a How-To]
+- xref:{doc-guides}/doc-create-howto-tutorial.adoc[Tutorial: Create a how-to guide]
 - xref:{doc-guides}/doc-concepts.adoc#howto-guide[Documentation concepts: How-to guides]
 - xref:{doc-guides}/doc-reference.adoc[Quarkus documentation reference]
 
-== Guidelines for good How-To guides
+== Guidelines for good how-to guides
 
-- Don’t explain concepts; link to a related concept/explainer
+- Don’t explain concepts; link to a related concept/explainer.
 - Be flexible; a how-to guide needs to be adaptable to real-world use-cases.
 - Omit the unnecessary; practical usability is more helpful than completeness.
 
 == Examples
 
-Baeldung tutorials provide solid examples of How-To guides.
+Baeldung tutorials provide solid examples of how-to guides.
 For example, "How to use Jackson annotations" is answered (with variations) here: https://www.baeldung.com/jackson-annotations
